@@ -1,8 +1,8 @@
 ### Eu Sou o Cristiano Aroxa 🤟
 
-#### Formações
+#### **Formações**
 
-Desenvolvimento de Software Multiplataforma - Fatec (02/2022 - Atualmente)
+Desenvolvimento de Software Multiplataforma - Fatec (08/2022 - Atualmente)
 
 
 
