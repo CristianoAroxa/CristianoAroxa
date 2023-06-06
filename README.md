@@ -1,24 +1,29 @@
-### Eu Sou o Cristiano Aroxa 🤟
+## Faaaala dev, Luigi Aqui!
 
-#### **Formações**
+<div >
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuigiGF&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuigiGF&layout=compact&langs_count=16&theme=great-gatsby"/>
+</div>
 
-Desenvolvimento de Software Multiplataforma - Fatec (08/2022 - Atualmente)
+## Codar é um modo de pensar
+<div style="display: flex; justify-content: space-between;"> <br>
+  <img align="left"height="150" alt="coding-time" src="code.gif">
+  <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
+</div>
 
+## Redes sociais
+<div>
+   <a href = "https://www.linkedin.com/in/cristiano-aroxa/">
+    <img width="25" src="linkedin.svg">
+ </div>
 
+![Snake animation](https://github.com/CristianoAroxa/blob/output/github-contribution-grid-snake.svg)
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristiano-aroxa-856168161/)
-
-![Aroxa GitHub stats](https://github-readme-stats.vercel.app/api?username=CristianoAroxa&show_icons=true&theme=gruvbox)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CristianoAroxa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-## Tecnologias usadas no meu cotidiano
-
-<div style="display: inline_block"><br/>
-<img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/> 
-<img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> 
-</div><br/>
 
 Estudante de Desenvolvimento de Software Multiplataforma FATEC Regsitro/SP
