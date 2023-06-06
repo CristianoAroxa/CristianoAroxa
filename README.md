@@ -23,7 +23,7 @@
     <img width="25" src="linkedin.svg">
  </div>
 
-![Snake animation](https://github.com/CristianoAroxa/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/CristianoAroxa/CristianoAroxa/blob/output/github-contribution-grid-snake.svg)
 
 
 Estudante de Desenvolvimento de Software Multiplataforma FATEC Regsitro/SP
