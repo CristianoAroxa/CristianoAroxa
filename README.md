@@ -16,11 +16,6 @@
   <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 </div>
 
-## Redes sociais
-<div>
-   <a href = "https://www.linkedin.com/in/cristiano-aroxa/">
-    <img width="25" src="linkedin.svg">
- </div>
 
 
 
